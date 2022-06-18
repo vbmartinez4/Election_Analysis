@@ -70,7 +70,7 @@ The outcomes regarding county participation in this election are as followed:
 
 ![winner](Resources/candidate_winner.PNG)
 
-    - **Diana DeGette** who received 73.8% of the vote and 272,892 number of votes.
+    - Diana DeGette who received 73.8% of the vote and 272,892 number of votes.
 
 ## Election Audit Summary
 Now for future elections, the election commission can look to utilize the script with a few modifications to not only continuing analyzing the winner and county voter turnout, but for other factors as well. One way in which this script can be used is what voter turnout count and percentage looks like for each candidate running based in each county. It would help demonstrate which county favored a candidate versus its counterparts. Likewise, another benefit the election commission that would come from using this script is obtaining further statistical data regarding central tendencies such as the mean from each county to observe the average amounts of voters were participating in each election for each county and even the candidates. It would add another perspective getting more granular on the data as to what the average was for a candidate in this county versus their competitor and compare side by side. Bringing it altogether with providing a greater and deeper analysis of the overall election results. 
