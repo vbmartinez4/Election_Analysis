@@ -41,6 +41,8 @@ Now having assisted Seth and Tom complete the election audit to determine the wi
 2. The percentage of votes from each county out of the overall total count
 3. The county with the highest voter turnout in this election
 
+Essentially this second audit will help to futher investigate on the county level how this congressional turnout appeared in three of Colorado's areas and dive a step deeper than the general data obtain just on the candidate level. 
+
 ## Challenge Summary
 The outcomes regarding county participation in this election are as followed: 
 - Total amounts of votes casted in this congressional election:
