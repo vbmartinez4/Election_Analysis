@@ -44,22 +44,22 @@ Now having assisted Seth and Tom complete the election audit to determine the wi
 ## Challenge Summary
 The outcomes regarding county participation in this election are as followed: 
 - Total amounts of votes casted in this congressional election:
-![total_votes](Resources/total_votes.png)
+![total_votes](Resources/total_votes.PNG)
     - There were 369,711 total votes cash in this election (include image)
 - Breaking it down further per county, the number of votes and percentage of total votes were:
-![county_total](Resources/county_votes_percentage.png)
+![county_total](Resources/county_votes_percentage.PNG)
     - Jefferson County had 10.5% of total voter turnout and 38,855 number of votes.
     - Denver had 82.8% of total voter turnout and 306,055 number of votes.
     - Arapahoe County had 6.7% of total voter turnout and 24,801 number of votes.
 - The largest county turnout was:
     - Denver had 82.8% of total voter turnout and 306,055 number of votes.
 - Candidate results
-![candidate_results](Resources/candidate_results.png)
+![candidate_results](Resources/candidate_results.PNG)
     - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
     - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
     - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 - The winner of the Colorado election is:
-![winner](Resources/candidate_winner.png)
+![winner](Resources/candidate_winner.PNG)
     - Diana DeGette who received 73.8% of the vote and 272,892 number of votes.
 
 ## Election Audit Summary
