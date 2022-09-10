@@ -1,6 +1,6 @@
-# Election_Analysis
+# Colorado Board of Election Analysis
 
-## Project Overview 
+## Overview 
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
@@ -9,9 +9,19 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 
-## Resources 
+## Tools used:
 - Data Source: election_results.csv
 - Software: Python 3.7.6, Visual Studio Code 
+
+## Objectives:
+- Read and extract data from CSV files.
+- Determine the difference between Python data types, like integers, floating-point decimal numbers, and strings.
+- Perform mathematical operations using data types.
+- Declare variables using different data types.
+- Create and use data structures like lists, tuples, and dictionaries.
+- Create and use decision and repetition statements.
+- Create and use Boolean and logical operators.
+- Write data to an output file and print the file.
 
 ## Summary
 The analysis of the election show that:
@@ -27,7 +37,7 @@ The analysis of the election show that:
 - The winner of the election was:
     - Diana DeGette who received 73.8% of the vote and 272,892 number of votes.
 
-## Challange Overview
+## Results
 Seth and Tom sought assistance in determining the winner of the Colorado elections once all of the votes had been collected to provide to the election commission and announce the winner. 
 In the first portion of the data collection analysis, the Board had provided us the following tasks to focus on during the first round of the election audit:
 1. Calculate the total number of votes cast.
@@ -43,7 +53,7 @@ Now having assisted Seth and Tom complete the election audit to determine the wi
 
 Essentially this second audit will help to futher investigate on the county level how this congressional turnout appeared in three of Colorado's areas and dive a step deeper than the general data obtain just on the candidate level. 
 
-## Challenge Summary
+## Election Outcomes
 The outcomes regarding county participation in this election are as followed: 
 - Total amounts of votes casted in this congressional election:
 
